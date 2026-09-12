@@ -46,13 +46,7 @@ constexpr std::array vowelCharacters{
     b_O,
     b_Okar,
     b_OU,
-    b_OUkar,
-    b_Vocalic_L,
-    b_Vocalic_LL,
-    b_Vocalic_RR,
-    b_Vocalic_RR_Kar,
-    b_Vocalic_L_Kar,
-    b_Vocalic_LL_Kar
+    b_OUkar
 };
 
 
@@ -99,7 +93,6 @@ constexpr std::array pureConsonantCharacters{
 };
 
 
-// Vowel signs (Kars).
 constexpr std::array karCharacters{
     b_AAkar,
     b_IIkar,
@@ -109,10 +102,7 @@ constexpr std::array karCharacters{
     b_RRIkar,
     b_Ekar,
     b_OIkar,
-    b_OUkar,
-    b_Vocalic_RR_Kar,
-    b_Vocalic_L_Kar,
-    b_Vocalic_LL_Kar
+    b_OUkar
 };
 
 } // namespace

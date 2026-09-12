@@ -116,8 +116,8 @@ inline constexpr BanglaChar b_Tth = U'\u09A0';
 inline constexpr BanglaChar b_Y = U'\u09DF';
 inline constexpr BanglaChar b_Z = U'\u09AF';
 
-inline constexpr BanglaChar AssamRa = U'\u09F0';
-inline constexpr BanglaChar AssamVa = U'\u09F1';
+inline constexpr BanglaChar AssamRa = U'\u09F0'; // 
+inline constexpr BanglaChar AssamVa = U'\u09F1'; //
 
 inline constexpr BanglaChar b_Khandatta = U'\u09CE';
 
